@@ -1,0 +1,44 @@
+header {
+	width:100%;
+	background-color:#efc156;
+}
+
+
+h1{
+	margin: 10px 0 5px 0;
+	font-size:28px;
+}
+
+.header-contents {
+	padding-bottom:10px;
+}
+
+.row {
+	margin-bottom:20px;
+}
+
+.card {
+	border:1px solid #e5ebee;
+}
+
+.card-image {
+	width:100%;
+}
+
+h2, h3 {
+	padding-left:10px;
+}
+
+h2 {
+	margin-bottom:10px;
+	font-size:18px;
+}
+
+h3 {
+	margin-top:0;
+	font-size:14px;
+	font-weight:normal;
+}
+
+
+
